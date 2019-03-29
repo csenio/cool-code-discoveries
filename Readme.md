@@ -8,4 +8,4 @@
 
  - `a === !!a` is a super quick way to check if something is a boolean.
  
- - a*1===a to check for typeof number
+ - `a*1===a` to check for typeof number
