@@ -9,3 +9,5 @@
  - `a === !!a` is a super quick way to check if something is a boolean.
  
  - `a*1===a` to check for typeof number
+
+ - `+false` becomes 0 and `+true` becomes 1
