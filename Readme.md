@@ -11,6 +11,8 @@
  - `a*1===a` to check for typeof number
 
  - `+false` becomes 0 and `+true` becomes 1
+ 
+ - `+"1"` becomes `1`
 
  - `new Set()` is similar to an array but has unique values
  
