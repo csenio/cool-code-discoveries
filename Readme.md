@@ -11,3 +11,7 @@
  - `a*1===a` to check for typeof number
 
  - `+false` becomes 0 and `+true` becomes 1
+
+ - `new Set()` is similar to an array but has unique values
+ 
+ - you can cache the array length in a for loop like this `for (let i = 0, length = array.length; i < length; i++){...`
