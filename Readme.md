@@ -18,4 +18,4 @@
  
  - you can cache the array length in a for loop like this `for (let i = 0, length = array.length; i < length; i++){...`
  
- - if you want to cut off part of an array you can do `arr = [1,2,3,4,5] arr.length = 3` and `arr` will be `[1,2,3]` 
+ - if you want to cut off part of  `const arr = [1,2,3,4,5]`  you can do `arr.length = 3` and `arr` will be `[1,2,3]` 
