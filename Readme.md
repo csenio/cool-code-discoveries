@@ -23,3 +23,5 @@
  - you can use hooks `useReducer` with just simple arrow function `const [toggle, setToggle] = useReducer(toggle=>!toggle, true)` (more of a shift in mindset than a hack)
 
  - long conditional chains like this `name === 'foo' || name === 'bar' || etc..` can be simplified like this `['foo','bar',etc...].includes(name)`
+
+ - you can destructure nested objects: `const { object: {nestedProp, nestedObj: {deeperNestedProp}}} = parentObj`
