@@ -25,3 +25,5 @@
  - long conditional chains like this `name === 'foo' || name === 'bar' || etc..` can be simplified like this `['foo','bar',etc...].includes(name)`
 
  - you can destructure nested objects: `const { object: {nestedProp, nestedObj: {deeperNestedProp}}} = parentObj`
+
+ - `a === 5 ? true : false` is the same as just writing `a=== 5`. This can be combined with the tips before to clean up some code `+(a===5) //1 : 0` 
