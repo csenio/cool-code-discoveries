@@ -13,8 +13,6 @@
 
 - `({text})=><div>{text}</div> ` is the same as `function(props){return <div>{props.text}</div>}`
 
-- `()=>{return 'foo'}` is the same as `()=>'foo'`
-
  - `+false` becomes 0 and `+true` becomes 1
  
  - `+"1"` becomes `1`
