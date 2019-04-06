@@ -1,5 +1,4 @@
 # Cool code discoveries 
-### mostly things that I wish I had known earlier but for some reason didn't 
 ![scraa](https://emojis.slackmojis.com/emojis/images/1521814450/3718/dabbing_unicorn.png?1521814450)
 
  - [JavaScript](#JavaScript)
@@ -37,7 +36,7 @@
 
  ## css
  
- - `place-content: align justify` is a shorthand for align item / justify content 
+ - `place-content: flex-start center;` is a shorthand for align item / justify content 
  
  ## html
  
