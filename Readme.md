@@ -2,6 +2,14 @@
 
 ![scraa](https://emojis.slackmojis.com/emojis/images/1521814450/3718/dabbing_unicorn.png?1521814450)
 
+ - [JavaScript](#JavaScript)
+ - [React](#React)
+ - [css](#css)
+ - [html](#html)
+ 
+ ---
+ 
+ 
 ## JavaScript
 
 - `function({text}){ return <div>{text}</div> }` is the same as `function(props){ return <div>{props.text}</div> }`
