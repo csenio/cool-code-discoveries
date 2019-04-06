@@ -36,7 +36,7 @@
 
  ## css
  
- - `place-content: flex-start center;` is a shorthand for align item / justify content 
+ - `place-content: flex-start center;` is a shorthand for `align-item` / `justify-content` 
  
  ## html
  
