@@ -13,7 +13,7 @@
 
 - `function({text}){ return <div>{text}</div> }` is the same as `function(props){ return <div>{props.text}</div> }`
 
-- `()=>{return 'foo'}` is the same as `()=>('foo')`
+- `()=>{return 'foo'}` is the same as `()=>'foo'`
 
  - `a === !!a` is a super quick way to check if something is a boolean.
  
