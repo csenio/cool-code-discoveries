@@ -43,7 +43,7 @@
 
  ## css
  
- - `place-content: align justify` IS A SHORTHAND FOR ALIGN ITEMS/JUSTIFY CONTENT IN FLEXBOX
+ - `place-content: align justify` is a shorthand for align item / justify content 
  
  ## html
  
