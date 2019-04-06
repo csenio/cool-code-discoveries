@@ -1,4 +1,6 @@
-# Cool code discoveries ![scraa](https://emojis.slackmojis.com/emojis/images/1521814450/3718/dabbing_unicorn.png?1521814450)
+# Cool code discoveries 
+
+![scraa](https://emojis.slackmojis.com/emojis/images/1521814450/3718/dabbing_unicorn.png?1521814450)
 
 
 
