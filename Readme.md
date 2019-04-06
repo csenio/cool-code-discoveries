@@ -1,4 +1,6 @@
-# Cool code discoveries
+# Cool code discoveries ![scraa](https://emojis.slackmojis.com/emojis/images/1521814450/3718/dabbing_unicorn.png?1521814450)
+
+
 
  - `<> ... </>` can be used in React instead of `<Fragment>...</Fragment>`
  
@@ -27,3 +29,5 @@
  - you can destructure nested objects: `const { object: {nestedProp, nestedObj: {deeperNestedProp}}} = parentObj`
 
  - `a === 5 ? true : false` is the same as just writing `a=== 5`. This can be combined with the tips before to shorten some code `+(a===5) //1 : 0` (in production the ternary operator is prob. a better idea tho)
+ 
+ - there is a `<picture>` tag that lets you create responsive images.
