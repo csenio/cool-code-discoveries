@@ -32,7 +32,7 @@
 
  - `<> ... </>` can be used in React instead of `<Fragment>...</Fragment>`
 
- - you can use hooks `useReducer` with just simple arrow function `const [toggle, setToggle] = useReducer(toggle=>!toggle, true)` (more of a shift in mindset than a hack)
+ - you can use the `useReducer` hook with just simple arrow function `const [toggle, setToggle] = useReducer(toggle=>!toggle, true)` (more of a shift in mindset than a hack)
 
  ## css
  
