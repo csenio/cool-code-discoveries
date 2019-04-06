@@ -11,7 +11,7 @@
  
 ## JavaScript
 
-- `function({text}){ return <div>{text}</div> }` is the same as `function(props)<div>{props.text}</div>`
+- `({text})=><div>{text}</div> ` is the same as `function(props){return <div>{props.text}</div>}`
 
 - `()=>{return 'foo'}` is the same as `()=>'foo'`
 
