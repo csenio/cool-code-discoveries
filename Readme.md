@@ -36,8 +36,6 @@
 
  ## css
  
- - `place-content: flex-start center;` is a shorthand for `align-item` / `justify-content` 
- 
  ## html
  
   - there is a `<picture>` tag that lets you create responsive images.
