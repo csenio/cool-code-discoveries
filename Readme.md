@@ -33,14 +33,6 @@
 
  - you can use the `useReducer` hook with just simple arrow function `const [toggle, setToggle] = useReducer(toggle=>!toggle, true)` (more of a shift in mindset than a hack)
  
- - `<Route path="/" component={scrollToTop} />` 
-     ```
-     const scrollToTop = () => {
-     window.scrollTo(0, 0)
-     return null;
-     };
-     ```
-  is a good way to scroll to top everytime you go to a new page
  ## css
 
  - `*{margin: 0; padding: 0;}` is a common way to get rid of all predefined margins/paddings. 
