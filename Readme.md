@@ -1,5 +1,4 @@
-# Cool code discoveries 
-![scraa](https://emojis.slackmojis.com/emojis/images/1521814450/3718/dabbing_unicorn.png?1521814450)
+# Cool code discoveries
 
  - [JavaScript](#JavaScript)
  - [React](#React)
@@ -35,6 +34,8 @@
  - you can use the `useReducer` hook with just simple arrow function `const [toggle, setToggle] = useReducer(toggle=>!toggle, true)` (more of a shift in mindset than a hack)
 
  ## css
+
+ - *{margin: 0; padding: 0;} is a common way to get rid of all predefined margins/paddings. 
  
  ## html
  
