@@ -35,7 +35,7 @@
 
  ## css
 
- - *{margin: 0; padding: 0;} is a common way to get rid of all predefined margins/paddings. 
+ - `*{margin: 0; padding: 0;}` is a common way to get rid of all predefined margins/paddings. 
  
  ## html
  
