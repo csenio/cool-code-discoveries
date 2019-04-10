@@ -1,4 +1,4 @@
-# Cool code discoveries
+#  ✨Cool code discoveries
 
  - [JavaScript](#JavaScript)
  - [React](#React)
