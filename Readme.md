@@ -39,4 +39,4 @@
  
  ## html
  
-  - there is a `<picture>` tag that lets you create responsive images.
+  - there is a `<picture>` tag that lets you create images with responsive resolutions.
