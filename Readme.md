@@ -26,6 +26,19 @@
  - you can destructure nested objects: `const { object: {nestedProp, nestedObj: {deeperNestedProp}}} = parentObj`
 
  - `a === 5 ? true : false` is the same as just writing `a=== 5`. This can be combined with the tips before to shorten some code `+(a===5) //1 : 0` (in production the ternary operator is prob. a better idea tho)
+ 
+ - you can get all the remaining items that you did not specifically destructure out of an object like this: 
+```
+const foo = {
+  a:1,
+  b:2,
+  c:3
+}
+
+const {b,...rest} = foo
+console.log(b) // 2
+console.log(rest) // {a:1, c:3}
+```
 
 ## React
 
