@@ -15,7 +15,7 @@
  
  - `+"1"` becomes `1`
 
- - `new Set()` is similar to an array but has unique values
+ - `new Set()` is similar to an array but has unique values and can be more easilly modified.
  
  - you can cache the array length in a for loop like this `for (let i = 0, length = array.length; i < length; i++){...`
  
