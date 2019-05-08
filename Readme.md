@@ -47,9 +47,11 @@ const arr = {
 }
 ```
 is the same as
+```
 const arr = {
   sayHi: function(name){console.log('hi',name)}
 }
+```
 
 ## React
 
