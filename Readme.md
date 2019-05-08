@@ -59,7 +59,7 @@ const arr = {
 
  - you can use the `useReducer` hook with just simple arrow function `const [toggle, setToggle] = useReducer(toggle=>!toggle, true)` (more of a shift in mindset than a hack)
  
- - need to access dom properties of mapped/many elements? simply put a `ref` on the parent and look use `ref.current.childNodes`
+ - need to access dom properties of mapped/many elements? simply put a `ref` on the parent and use `ref.current.childNodes`
  
  ## css
 
