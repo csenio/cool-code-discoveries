@@ -40,6 +40,17 @@ console.log(b) // 2
 console.log(rest) // {a:1, c:3}
 ```
 
+ - there is a shorthand for declaring methods 
+```
+const arr = {
+  sayHi(name){console.log('hi',name)}
+}
+```
+is the same as
+const arr = {
+  sayHi: function(name){console.log('hi',name)}
+}
+
 ## React
 
  - `<> ... </>` can be used in React instead of `<Fragment>...</Fragment>`
