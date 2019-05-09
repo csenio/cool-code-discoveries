@@ -65,6 +65,10 @@ const arr = {
 
  - `*{margin: 0; padding: 0;}` is a common way to get rid of all predefined margins/paddings. 
  
+ ## webpack
+
+ - you can configure aliases so that you can do `import {btn} from 'components'` instead of `import {btn} from '../../../components'` https://webpack.js.org/configuration/resolve/
+ 
  ## html
  
   - there is a `<picture>` tag that lets you create images with responsive resolutions.
