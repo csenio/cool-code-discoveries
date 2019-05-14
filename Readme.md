@@ -73,4 +73,5 @@ const arr = {
  
  ## html
  
-  - there is a `<picture>` tag that lets you create images with responsive resolutions.
+  - there is a `<picture>` tag that lets you create images with responsive resolutions. The video tag does the same.
+
