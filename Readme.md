@@ -9,6 +9,8 @@
  
 ## JavaScript
 
+
+- You can put properties on functions and arrays: `styled.div = styled('div')`
 - there's a lot of standard built in objects in JavaScript that you may never have heard of https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 - `({text})=><div>{text}</div> ` is the same as `function(props){return <div>{props.text}</div>}`
